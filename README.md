@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jacobforss/jacobforss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... GitSUM
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 30%;"> 
+    <h3>Column 1</h3>
+    <p>Content here...</p>
+  </div>
+  <div style="width: 30%;">
+    <h3>Column 2</h3>
+    <p>More content...</p>
+  </div>
+  <div style="width: 30%;">
+    <h3>Column 3</h3>
+    <p>Even more...</p>
+  </div>
+</div>
