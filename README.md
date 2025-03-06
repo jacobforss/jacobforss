@@ -1,9 +1,2 @@
 ## Hi there 👋
-
-
-## Hi there 👋
-![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe)
-![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe)
-![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe)
-![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe)
-![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe)
+![try](https://github.com/user-attachments/assets/7475c4c8-0d54-4db7-946c-2e43160ae870)
