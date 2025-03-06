@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+
 ## Hi there 👋
 
-| ![Image 1](https://via.placeholder.com/150) | ![Image 2](https://via.placeholder.com/150) | ![Image 3](https://via.placeholder.com/150) | ![Image 4](https://via.placeholder.com/150) |
+| ![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe) | ![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe) | ![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe) | ![Languages](https://github.com/user-attachments/assets/2751b04e-836f-4475-9381-d01922613abe) |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 | Caption 1                                   | Caption 2                                   | Caption 3                                   | Caption 4                                   |
